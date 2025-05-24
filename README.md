@@ -91,7 +91,7 @@ _Minimal UI with clear hierarchy, priority indicators, and real-time stats._
 
 MIT License — Feel free to fork and adapt it to your needs.
 
-
+---
 
 
 
