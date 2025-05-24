@@ -82,7 +82,7 @@ _Visualizes task completion rates, focus metrics, and daily trends._
 _Minimal UI with clear hierarchy, priority indicators, and real-time stats._
 
 
-
+---
 
 
 📄 License
