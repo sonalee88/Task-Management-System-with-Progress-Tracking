@@ -89,8 +89,4 @@ MIT License — Feel free to fork and adapt it to your needs.
 📬 Contact: sonalee88@gmail.com
 
 
-💻 GitHub Repo
-
-📬 Contact: sonalee88@gmail.com
-
 Built with ❤️ to solve my own productivity challenges.
