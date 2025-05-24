@@ -1,1 +1,15 @@
+cd Task-Management-System-with-Progress-Tracking
+
+# Create folder if not already created
+mkdir -p AssestsForPM
+
+# Move files into the folder
+mv /path/to/progress_analytics.png AssestsForPM/
+mv /path/to/main_dashboard.png AssestsForPM/
+mv /path/to/ProjectOverview_PM.txt AssestsForPM/
+
+# Stage and commit
+git add AssestsForPM/*
+git commit -m "Add PM assets: screenshots and project overview"
+git push origin main
 
