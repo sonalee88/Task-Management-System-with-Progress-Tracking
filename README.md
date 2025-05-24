@@ -65,6 +65,21 @@ npm run dev
 npm run build
 npm run preview
 ```
+## 📸 Screenshots
+
+### 📊 Progress Analytics
+
+![Progress Analytics](./AssestsForPM/progress_analytics.png)
+
+_Visualizes task completion rates, focus metrics, and daily trends._
+
+---
+
+### 🧭 Main Dashboard
+
+![Main Dashboard](./AssestsForPM/main_dashboard.png)
+
+_Minimal UI with clear hierarchy, priority indicators, and real-time stats._
 
 
 📄 License
