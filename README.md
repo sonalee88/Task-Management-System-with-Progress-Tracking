@@ -67,14 +67,6 @@ npm run preview
 ```
 ## 📸 Screenshots
 
-### 📊 Progress Analytics
-
-![Progress Analytics](https://github.com/sonalee88/Task-Management-System-with-Progress-Tracking/blob/main/progress_analytics.png)
-
-_Visualizes task completion rates, focus metrics, and daily trends._
-
----
-
 ### 🧭 Main Dashboard
 
 ![Main Dashboard](https://github.com/sonalee88/Task-Management-System-with-Progress-Tracking/blob/main/main_dashboard.png)
@@ -83,6 +75,16 @@ _Minimal UI with clear hierarchy, priority indicators, and real-time stats._
 
 
 ---
+
+### 📊 Progress Analytics
+
+![Progress Analytics](https://github.com/sonalee88/Task-Management-System-with-Progress-Tracking/blob/main/progress_analytics.png)
+
+_Visualizes task completion rates, focus metrics, and daily trends._
+
+---
+
+
 
 
 📄 License
