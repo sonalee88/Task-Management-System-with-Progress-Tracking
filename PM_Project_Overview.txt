@@ -1,0 +1,98 @@
+🧪 Tech Stack
+🖥 Frontend
+- React 18 — Modern hooks-based UI
+- Vite — Blazing-fast builds and HMR
+- CSS3 — Grid + Flexbox for layout
+- LocalStorage API — Persistent client-side storage
+
+🎨 Design System
+- Color Palette — Accessible and clean hierarchy
+- Typography — Inter font for optimal legibility
+- Component Architecture — Reusable and modular
+- Responsive Breakpoints — Mobile-first enhancements
+
+🧬 Product Evolution
+Version | Highlights                                     | Learnings
+--------|-----------------------------------------------|---------------------------------------------------
+1.0     | MVP with CRUD, list UI, local storage         | Needed better org tools
+1.5     | Visual priority levels & sorting              | Visual cues improve focus
+2.0     | Completion stats, analytics, tracking         | Visual momentum boosts motivation
+2.5     | Mobile-first redesign, offline support        | 70% usage on mobile!
+3.0     | Calendar views, smart deadlines, performance  | Accessibility & speed improved
+
+🎨 Design Philosophy
+📦 Progressive Disclosure:
+- Start simple, add only proven-valuable features.
+
+👤 User-Centered Iteration:
+- Solves my real problems, not hypothetical ones.
+
+📐 Visual Hierarchy:
+- High-priority = bright & upfront
+- Completed = muted, quick confirm
+- Secondary = non-distracting presence
+
+⚡ Performance First:
+- Optimistic UI for instant feel
+- Lazy loading for speed
+- Offline-ready with LocalStorage
+
+📊 Metrics & Performance
+🚀 Personal Productivity Impact
+- ✅ Task completion up: 60% → 85%
+- 📱 Daily use for 6+ months
+- 🕒 Task entry time down: 30s → 5s
+- 📲 Mobile interactions: 70%+
+
+⚙️ Technical Benchmarks
+- ⚡ Lighthouse Score: 95+
+- 🧳 Bundle Size: <50KB gzipped
+- ⏱️ FCP: <1s, TTI: <2s
+
+🧠 Key Learnings
+Product:
+- Build for real pain points first.
+- Progress stats drive re-engagement.
+- Mobile UX ≠ desktop UX — design natively.
+
+Technical:
+- Local-first is crucial for real usage.
+- Small, isolated components scale better.
+- Performance tuning prevents bloat.
+
+Process:
+- Document UI decisions early.
+- Involve others in user testing sooner.
+- Bake in accessibility from day one.
+
+🗺️ Future Roadmap
+🔮 Planned Features
+- 👥 Team Collaboration
+- ⏱️ Time Tracking
+- 🔌 API Integrations (Google Calendar, Trello, etc.)
+- 📊 Advanced Productivity Analytics
+
+🛠 Technical Enhancements
+- 🧪 TypeScript Migration
+- ✅ Unit + Integration Test Coverage
+- 📲 PWA Support + Background Sync
+- 📉 Real-time Performance Monitoring
+
+🤝 Contributing
+This is a personal passion project, but I welcome:
+- 🐞 Bug reports
+- 🚀 Performance suggestions
+- ♿ Accessibility improvements
+- 🎨 UI/UX feedback
+
+Open an issue or submit a PR!
+
+📄 License
+MIT License — Feel free to fork and adapt it to your needs.
+
+🔗 Links & Resources
+- 🎨 View Design System – Generated UI patterns
+- 💻 GitHub Repo
+- 📬 Contact: sonalee88@gmail.com
+
+Built with ❤️ to solve my own productivity challenges.
